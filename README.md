@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Jawdat Zahran 👋</h1>  
 <p align="center">
-  🚀 Cloud Computing | 💻 Web Development | 🤖 AI Enthusiast  
+  🚀 Cloud Computing | 🛠 Software Development | 🤖 AI Enthusiast  
 </p>
+
 
 ---
 
